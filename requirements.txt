@@ -7,3 +7,4 @@ matplotlib==3.5.3
 matplotlib-inline==0.16
 haversine==2.7.0
 streamlit-folium==0.7.0
+datetime==5.5
