@@ -6,7 +6,6 @@
 #importando bibliotecas
 from haversine import haversine as haversine
 import pandas as pd
-import re as re
 import folium as folium
 import streamlit as st
 import datetime as dt
